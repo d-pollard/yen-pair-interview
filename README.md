@@ -5,30 +5,21 @@
 #### NPM
 
 ```shell script
-git clone https://github.com/d-pollard/react-interview-preset
-cd react-interview-preset
+git clone git@github.com:d-pollard/yen-pair-interview.git
+cd yen-pair-interview
 npm install
 npm run start
 ```
 
-From here, you can access the development site at http://localhost:3030
+From here, you can access the task at http://localhost:3030/bookmarks
 
 #### Yarn
 
 ```shell script
-git clone https://github.com/d-pollard/react-interview-preset
-cd react-interview-preset
+git clone git@github.com:d-pollard/yen-pair-interview.git
+cd yen-pair-interview
 yarn install
 yarn start
 ```
 
-From here, you can access the development site at http://localhost:3030
-
-## Stack
-
-- React
-- Redux Toolkit
-- Redux Saga
-- TailwindCSS
-- Typescript
-- Axios
+From here, you can access the task at http://localhost:3030/bookmarks
